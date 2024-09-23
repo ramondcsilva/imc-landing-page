@@ -1,2 +1,2 @@
 # imc-landing-page
-Its a IMC lading page.
+It's a IMC lading page for restic activity.
